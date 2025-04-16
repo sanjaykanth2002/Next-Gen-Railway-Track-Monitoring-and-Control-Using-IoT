@@ -1,7 +1,4 @@
-<?php
 
-// Content for the README.md file
-$readmeContent = <<<EOD
 # 🚄 Next-Gen Railway Track Monitoring and Control Using IoT
 
 A real-time IoT-based system designed to detect railway track faults and send alerts to improve train safety, reduce accidents, and enable predictive maintenance. This smart solution integrates sensors, GPS, and cloud platforms to monitor tracks and notify authorities instantly in case of irregularities.
